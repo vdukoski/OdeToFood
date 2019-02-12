@@ -120,3 +120,7 @@ C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\obj\Debug\OdeToFood.p
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\obj\Debug\OdeToFood.Migrations.InitialCreate.resources
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.cache
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojAssemblyReference.cache
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.dll
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.Mvc.dll
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.xml
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.Mvc.xml
