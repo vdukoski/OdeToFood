@@ -233,6 +233,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Content Include="Content\jqueryui\images\ui-icons_444444_256x240.png" />
     <Content Include="Content\jqueryui\images\ui-icons_555555_256x240.png" />
     <Content Include="Content\jqueryui\images\ui-icons_777620_256x240.png" />
@@ -244,6 +245,8 @@
     <Content Include="Content\jqueryui\jquery-ui.theme.css" />
     <Content Include="Content\jqueryui\jquery-ui.theme.min.css" />
     <Content Include="Content\PagedList.css" />
+=======
+>>>>>>> parent of 13c88de... added paging
 =======
 >>>>>>> parent of 13c88de... added paging
 =======

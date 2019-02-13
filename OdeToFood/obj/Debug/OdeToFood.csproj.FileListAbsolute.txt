@@ -123,6 +123,7 @@ C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\obj\Debug\OdeToFood.c
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.dll
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.Mvc.dll
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\PagedList.xml
@@ -131,6 +132,8 @@ C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\WebMatrix.Data.dl
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\WebMatrix.WebData.dll
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\WebMatrix.Data.xml
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood\bin\WebMatrix.WebData.xml
+=======
+>>>>>>> parent of 13c88de... added paging
 =======
 >>>>>>> parent of 13c88de... added paging
 =======

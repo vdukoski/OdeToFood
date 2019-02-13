@@ -11,6 +11,7 @@ namespace OdeToFood
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             bundles.Add(new ScriptBundle("~/bundles/otf").Include(
                      "~/Scripts/jquery-3.3.1.js",
                      "~/Scripts/jquery-ui.js",
@@ -19,6 +20,8 @@ namespace OdeToFood
                      "~/Scripts/otf.js"
                 ));
 
+=======
+>>>>>>> parent of 13c88de... added paging
 =======
 >>>>>>> parent of 13c88de... added paging
 =======
