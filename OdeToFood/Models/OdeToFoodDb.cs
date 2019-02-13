@@ -16,6 +16,5 @@ namespace OdeToFood.Models
 
         public DbSet<RestaurantReview> Reviews { get; set; }
 
-        
     }
 }

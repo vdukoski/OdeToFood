@@ -1,4 +1,5 @@
-﻿using System.Web.Optimization;
+﻿using System.Web;
+using System.Web.Optimization;
 
 namespace OdeToFood
 {
@@ -7,6 +8,7 @@ namespace OdeToFood
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
+<<<<<<< HEAD
             bundles.Add(new ScriptBundle("~/bundles/otf").Include(
                      "~/Scripts/jquery-3.3.1.js",
                      "~/Scripts/jquery-ui.js",
@@ -15,6 +17,8 @@ namespace OdeToFood
                      "~/Scripts/otf.js"
                 ));
 
+=======
+>>>>>>> parent of 13c88de... added paging
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-3.3.1.js"));
 

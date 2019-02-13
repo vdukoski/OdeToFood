@@ -1,8 +1,9 @@
-﻿@model IPagedList<RestaurantListViewModel>
+﻿@model IEnumerable<OdeToFood.Models.RestaurantListViewModel>
 @{
     ViewBag.Title = "Home Page";
 }
 
+<<<<<<< HEAD
 @*@section styles {
     <link href="~/Content/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
     <link href="~/Content/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
@@ -22,3 +23,23 @@
 @*@section scripts {
     <script src="~/Scripts/jquery-ui.min.js"></script>
 }*@
+=======
+<form id="search-form" method="get">
+    <input type="search" name="searchTerm"/>
+    <input type="submit" value="Search By Name" />
+</form>
+
+@foreach (var item in Model)
+{
+    <div>
+        <h4>@item.Name</h4>
+        <div>
+        @item.City, @item.Country
+        </div>
+        <div>
+            Reviews: @item.CountOfReviews
+        </div>
+        <hr />
+    </div>
+}
+>>>>>>> parent of 13c88de... added paging
