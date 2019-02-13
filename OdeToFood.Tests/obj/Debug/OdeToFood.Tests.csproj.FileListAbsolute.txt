@@ -51,3 +51,9 @@ C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\obj\Debug\OdeTo
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.csproj.CopyComplete
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.dll
 C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\obj\Debug\OdeToFood.Tests.pdb
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.dll
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\bin\Debug\PagedList.xml
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\User5570\Desktop\mvc Tutorial\OdeToFood\OdeToFood.Tests\bin\Debug\WebMatrix.WebData.xml

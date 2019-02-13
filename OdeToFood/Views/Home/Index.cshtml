@@ -3,10 +3,15 @@
     ViewBag.Title = "Home Page";
 }
 
-<form action="@Url.Action("Index")" method="get"
-    data-otf-ajax="true" data-otf-target ="#restaurantList" >
+@*@section styles {
+    <link href="~/Content/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+    <link href="~/Content/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+}*@
 
-    <input type="search" name="searchTerm" data-otf-autocomplete="@Url.Action("Autocomplete")"/>
+<form action="@Url.Action("Index")" method="get"
+      data-otf-ajax="true" data-otf-target="#restaurantList">
+
+    <input type="search" name="searchTerm" data-otf-autocomplete="@Url.Action("Autocomplete")" />
     <input type="submit" value="Search By Name" />
 </form>
 
@@ -14,3 +19,6 @@
 
 @Html.Partial("_Restaurants", Model)
 
+@*@section scripts {
+    <script src="~/Scripts/jquery-ui.min.js"></script>
+}*@

@@ -8,15 +8,15 @@ namespace OdeToFood
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/otf").Include(
-                     "~/Scripts/jquery-{version}.js",
-                     "~/Scripts/jquery-ui-{version}.js",
+                     "~/Scripts/jquery-3.3.1.js",
+                     "~/Scripts/jquery-ui.js",
                      "~/Scripts/jquery.unobtrusive*",
                      "~/Scripts/jquery.validate*",
                      "~/Scripts/otf.js"
                 ));
 
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
-                        "~/Scripts/jquery-{version}.js"));
+                        "~/Scripts/jquery-3.3.1.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
@@ -31,6 +31,8 @@ namespace OdeToFood
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/jqueryui/jquery-ui.structure.css",
+                      "~/Content/jqueryui/jquery-ui.theme.css",
                       "~/Content/site.css"));
         }
     }
